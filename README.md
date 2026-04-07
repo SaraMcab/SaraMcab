@@ -1,20 +1,28 @@
 ## Hi there 👋
+## Hola a todos 👋
 
  - 🔭 I’m currently working on trying git with vs code
- - 🌱 I’m currently learning aobut git commands
- - 👯 I’m looking to collaborate on more repositories
- - 🤔 I’m looking for help with everything
- - 💬 Ask me about how is my day going
- - 📫 How to reach me: by wpp
- - ⚡ Fun fact: I love MCU
-
- ## Hola a todos 👋
-
  - 🔭 Actualmente estoy trabajando en un probar git con vs code 
+ - 🌱 I’m currently learning aobut git commands
  - 🌱 Actualmente estoy aprendiendo algunos comandos git 
- - 👯 Estoy buscando colaborar en otros repositorios
- - 🤔 Estoy buscando ayuda con todo
- - 💬 Pregúntame sobre cómo estuvo mi día
- - 📫 Cómo contactarme: vía wpp
- - ⚡ Dato curioso: Amo el MCU
+ - 👯 I’m looking to collaborate on more repositories
+  - 👯 Estoy buscando colaborar en otros repositorios
+ - 🤔 I’m looking for help with everything
+  - 🤔 Estoy buscando ayuda con todo
+ - 💬 Ask me about how is my day going
+  - 💬 Pregúntame sobre cómo estuvo mi día
+ - 📫 How to reach me: by wpp
+  - 📫 Cómo contactarme: vía wpp
+ - ⚡ Fun fact: I love MCU
+  - ⚡ Dato curioso: Amo el MCU
+
+ 
+
+ 
+
+
+
+
+
+
 
